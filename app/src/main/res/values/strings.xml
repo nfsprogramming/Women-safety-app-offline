@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Women Safety App</string>
+    <string name="panic_button_text">PANIC BUTTON</string>
+    <string name="emergency_sos_message">EMERGENCY HELP NEEDED! My Location: Lat: %1$s, Long: %2$s Time: %3$s</string>
+    <string name="sms_permission_required">SMS permission is required to send emergency alerts</string>
+    <string name="location_permission_required">Location permission is required to share your location</string>
+    <string name="contect_permission_required">Contact permission is required to call emergency numbers</string>
+    <string name="location_unavailable">Location not available. Please enable GPS.</string>
+    <string name="sos_sent_success">Emergency SOS sent successfully!</string>
+    <string name="sos_send_failed">Failed to send SOS message</string>
+    <string name="alarm_activated">Panic alarm activated for 30 seconds</string>
+    <string name="flashlight_activated">Flashlight activated for 30 seconds</string>
+    <string name="emergency_contacts_updated">Emergency contacts updated successfully</string>
+    <string name="no_emergency_contacts">Please add emergency contacts in settings</string>
+</resources>

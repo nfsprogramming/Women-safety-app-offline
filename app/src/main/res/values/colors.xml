@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="red_primary">#D32F2F</color>
+    <color name="red_light">#FF6659</color>
+    <color name="red_dark">#9A0007</color>
+    
+    <!-- Warning Colors -->
+    <color name="orange_warning">#FF9800</color>
+    <color name="orange_light">#FFC947</color>
+    <color name="orange_dark">#C66900</color>
+    
+    <color name="yellow_warning">#FFEB3B</color>
+    <color name="yellow_light">#FFFF72</color>
+    <color name="yellow_dark">#C8B900</color>
+    
+    <!-- Info Colors -->
+    <color name="blue_primary">#1976D2</color>
+    <color name="blue_light">#63A4FF</color>
+    <color name="blue_dark">#004BA0</color>
+    
+    <!-- Status Colors -->
+    <color name="green_success">#388E3C</color>
+    <color name="green_light">#6ABF69</color>
+    <color name="green_dark">#00600F</color>
+    
+    <!-- Neutral Colors -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="grey_primary">#757575</color>
+    <color name="grey_secondary">#9E9E9E</color>
+    <color name="grey_light">#F5F5F5</color>
+    <color name="grey_dark">#424242</color>
+    
+</resources>

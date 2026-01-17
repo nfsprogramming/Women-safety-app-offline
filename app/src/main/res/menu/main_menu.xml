@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    
+    <item
+        android:id="@+id/action_contacts"
+        android:title="Emergency Contacts"
+        android:icon="@android:drawable/ic_menu_call"
+        app:showAsAction="never"/>
+    
+    <item
+        android:id="@+id/action_map"
+        android:title="Nearby Safe Places"
+        android:icon="@android:drawable/ic_menu_mapmode"
+        app:showAsAction="never"/>
+    
+    <item
+        android:id="@+id/action_settings"
+        android:title="Settings"
+        android:icon="@android:drawable/ic_menu_preferences"
+        app:showAsAction="never"/>
+    
+    <item
+        android:id="@+id/action_about"
+        android:title="About"
+        android:icon="@android:drawable/ic_menu_info_details"
+        app:showAsAction="never"/>
+    
+</menu>

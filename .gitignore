@@ -1,0 +1,17 @@
+# Android
+build/
+.gradle/
+local.properties
+*.iml
+.idea/
+.DS_Store
+
+# Java
+*.class
+
+# Generated files
+bin/
+gen/
+
+# Log files
+*.log
